@@ -1,0 +1,91 @@
+
+     body{ /* ex: comentário css */
+     background-color: rgb(238, 233, 227); 
+     font-size: 20px; /* aumenta tamanho dos ícones */
+     text-align: center;
+     
+    header{
+     text-align: center;
+    background-color:rgb(234, 158, 45);
+    color: rgb(24, 13, 13); /* letra do titulo*/
+   margin: 0%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 40px; /*tamanho do título*/
+    /*margin: 10px; /* aumenta e diminui a faixa dos lados título */
+   /* margin-left: 300px;/* diminui um lado da faixa em volta do titulo*/
+   /*margin-right: 300px;*/
+    padding: 10px; /*aumenta a faixa*/
+   border-radius: 10px;
+    margin-top: 0px;
+  h3 {
+   
+   margin: 0px;
+   text-align: center;
+   font-size: 20px;
+ }
+
+    }
+
+ .imagem{
+   margin:1px;
+   
+  }
+ .zap{
+   margin: 20px;
+
+    }
+.imagemcatchup{
+  margin: 2%;
+
+    }
+ 
+ }
+ 
+ .parte2{
+   
+   background-color: rgb(234,158,45);
+   
+   
+   color: rgb(39, 38, 37);
+   border-style: solid;
+   padding: 2em;
+   padding-right:3.5em;
+   /* width: 300px; foi qual alinhou*/
+  margin: auto;
+  margin-left: 400px;
+  margin-right: 400px;
+ }
+ li{
+
+  color: black;
+  list-style-type: none; /* tira a opçoes cicle entre outras da tag <li>*/
+  border: 2px;
+  border-style: solid; 
+  margin-top: 2px;
+  text-align: center;
+ }
+  #botao{
+   border-radius: 10px;
+   padding: 12px;
+   padding-left: 50px; /* aumenta botão esquerda*/
+   padding-right: 50px; /*aumenta botão pra direita*/
+   /*margin-left: 900px;*/  
+   
+}
+input{
+
+  background-color:rgb(215, 210, 202);
+  font-family: Arial, Helvetica, sans-serif;
+
+  
+  width: 40px; /*aumenta e diminui o tamanho de quantidade */
+  left:40px ;
+  
+
+}
+ .hoverlink:hover{
+
+background-color: rgb(234, 158, 45);
+ }
+ 
+ 
